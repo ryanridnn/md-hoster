@@ -24,7 +24,7 @@
   **Expected** SYSTEM-NO-2,
   **Fails**: 3 times
 
-  **failed extraction results**: NO-2, SYSTEM-2, SYSTEM-2
+  **Failed extraction results**: NO-2, SYSTEM-2, SYSTEM-2
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/dc2f7e43328c1ce7de3f161155e608828b5eb6e5)
 
@@ -51,7 +51,7 @@
   **Expected** 1.5,
   **Fails**: 1 times
 
-  **failed extraction results**: 3.5
+  **Failed extraction results**: 3.5
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/02f4a95a9e6d358f288cb10d6c81d732aae13f1b)
 

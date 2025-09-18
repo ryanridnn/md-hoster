@@ -10,7 +10,7 @@
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/fwxjrz9z5flryk0wxensk)
 
@@ -23,19 +23,19 @@
   **Expected** 96.0,
   **Fails**: 10 times
 
-  **failed extraction results**: 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1
+  **Failed extraction results**: 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1
 
 - **Key**: internal_temperature,
   **Expected** 96.0,
   **Fails**: 10 times
 
-  **failed extraction results**: 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1
+  **Failed extraction results**: 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1, 96.1
 
 - **Key**: cookingCompliance,
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/9b22b3550994c76d1d3d47b4263948da58126f08)
 
@@ -48,7 +48,7 @@
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/t4bei0lvc9bzvd5a0y0c6d)
 
@@ -61,7 +61,7 @@
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/8d010l9ci1wg3cdiddxob4)
 
@@ -74,19 +74,19 @@
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 - **Key**: temperature1,
   **Expected** 84.3,
   **Fails**: 4 times
 
-  **failed extraction results**: 84.5, 84.5, 84.5, 84.5
+  **Failed extraction results**: 84.5, 84.5, 84.5, 84.5
 
 - **Key**: internal_temperature,
   **Expected** 84.3,
   **Fails**: 4 times
 
-  **failed extraction results**: 84.5, 84.5, 84.5, 84.5
+  **Failed extraction results**: 84.5, 84.5, 84.5, 84.5
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/j093isu9jyygwvc6jorxb)
 
@@ -99,19 +99,19 @@
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 - **Key**: temperature1,
   **Expected** 94.5,
   **Fails**: 2 times
 
-  **failed extraction results**: 94.9, 94.9
+  **Failed extraction results**: 94.9, 94.9
 
 - **Key**: internal_temperature,
   **Expected** 94.5,
   **Fails**: 2 times
 
-  **failed extraction results**: 94.9, 94.9
+  **Failed extraction results**: 94.9, 94.9
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/4eok0a871v88w97ulghxeb)
 
@@ -124,7 +124,7 @@
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/wz36wchm6qjpfjru801s)
 
@@ -137,7 +137,7 @@
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 ![](https://prd-assets.didge.io/campro/68ba1c877cd46a28d5d318e9/w68fsd0hkbltoqb5hlvfdk)
 
@@ -150,18 +150,18 @@
   **Expected** 91,
   **Fails**: 10 times
 
-  **failed extraction results**: 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6
+  **Failed extraction results**: 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6
 
 - **Key**: internal_temperature,
   **Expected** 91,
   **Fails**: 10 times
 
-  **failed extraction results**: 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6
+  **Failed extraction results**: 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6, 71.6
 
 - **Key**: cookingCompliance,
   **Expected** Cooking Compliance Exist,
   **Fails**: 10 times
 
-  **failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
+  **Failed extraction results**: \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>, \<empty\>
 
 
